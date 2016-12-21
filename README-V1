@@ -15,4 +15,5 @@ https://github.com/altercatin/vim-colors-solarized.git
 sh <(curl https://j.mp/spf13-vim3 -L)
 
 6.recompile vim with lua support(inorder for plugin: neocomplete)
+www.07net01.com/2016/04/1414954.html
 
