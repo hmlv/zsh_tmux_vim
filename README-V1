@@ -1,0 +1,18 @@
+This is the manual to configure zsh & tmux & vim. 
+Author : Huiming Lv
+
+1.clone oh-my-zsh
+https://github.com/robbyrussell/oh-my-zsh.git
+
+2.ln -s ~/zsh_tmux_vim/.zshrc ~/.zshrc
+
+3.ln -s ~/zsh_tmux_vim/.tmux.conf ~/.tmux.conf 
+
+4.clone colors-solarized
+https://github.com/altercatin/vim-colors-solarized.git
+
+5.install spf13-vim
+sh <(curl https://j.mp/spf13-vim3 -L)
+
+6.recompile vim with lua support(inorder for plugin: neocomplete)
+

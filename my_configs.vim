@@ -141,10 +141,10 @@ nmap <C-]>e :cs find e <C-R>=expand("<cword>")<CR><CR>
 nmap <C-]>f :cs find f <C-R>=expand("<cfile>")<CR><CR>
 nmap <C-]>i :cs find i ^<C-R>=expand("<cfile>")<CR>$<CR>
 nmap <C-]>d :cs find d <C-R>=expand("<cword>")<CR><CR>
-imap <C-k> <up>
-imap <C-j> <down>
-imap <C-h> <left>
-imap <C-l> <right>
-nmap <C-a> :bnext <CR>
-nmap <C-e> :bprev <CR>
-nmap <C-x> :b# <CR>
+#imap <C-k> <up>
+#imap <C-j> <down>
+#imap <C-h> <left>
+#imap <C-l> <right>
+#nmap <C-a> :bnext <CR>
+#nmap <C-e> :bprev <CR>
+#nmap <C-x> :b# <CR>
