@@ -15,5 +15,6 @@ git clone https://github.com/altercatin/vim-colors-solarized.git ~/vim-colors-so
 sh <(curl https://j.mp/spf13-vim3 -L)
 
 ln -s ~/zsh_tmux_vim/.vimrc.local ~/.vimrc.local
+ln -s ~/zsh_tmux_vim/.vimrc.bundles.local ~/.vimrc.bundles.local
 
 chsh -s /bin/zsh

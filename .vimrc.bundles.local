@@ -1,0 +1,3 @@
+Bundle 'Shougo/neocomplcache.vim'
+Bundle 'Shougo/neosnippet.vim'
+Bundle 'fholgado/minibufexpl.vim'
